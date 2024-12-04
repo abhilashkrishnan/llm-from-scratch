@@ -1,2 +1,2 @@
-# llm-from-scratch
-Building LLM from ground-up
+# LLM from Scratch
+Building Large Language Model (LLM) from ground-up.
